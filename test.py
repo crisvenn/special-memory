@@ -1,1 +1,2 @@
-print("hello world")
+ a = 16
+print(a)
